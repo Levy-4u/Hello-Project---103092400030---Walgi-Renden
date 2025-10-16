@@ -1,3 +1,5 @@
+//PROJECT INVENTORY BARANG GO
+
 package main
 
 import "fmt"
